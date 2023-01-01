@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ndaruga_" target="blank"><img src="https://img.shields.io/twitter/follow/ndaruga_?logo=twitter&style=for-the-badge" alt="ndaruga_" /></a> </p>
 
-- 🔭 I’m currently working on [A new Dimensionality reduction algorithm](https://github.com/Ndaruga/Multiple-Machine-Learning-Projects/tree/main/London-Fire-Brigade)
+- 🔭 I’m currently working on [Neural Machine Translation](https://github.com/Ndaruga/Neural-Machine-Translation)
 
 - 🌱 I’m currently learning **Google cloud and Microsoft Azure**
 
