@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ndaruga&label=Profile%20views&color=0e75b6&style=flat" alt="ndaruga" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ndaruga_" target="blank"><img src="https://img.shields.io/twitter/follow/ndaruga_?logo=twitter&style=for-the-badge" alt="ndaruga_" /></a> </p>
+<!--- <p align="left"> <a href="https://twitter.com/ndaruga_" target="blank"><img src="https://img.shields.io/twitter/follow/ndaruga_?logo=twitter&style=for-the-badge" alt="ndaruga_" /></a> </p> --->
 
 - 🔭 I’m currently working on [Neural Machine Translation](https://github.com/Ndaruga/Neural-Machine-Translation)
 
