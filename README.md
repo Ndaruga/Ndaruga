@@ -21,6 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/ndaruga_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ndaruga_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/francis-ndaruga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francis-ndaruga" height="30" width="40" /></a>
+<a href="https:/api.whatsapp.com/send?phone=+254113927737" target="blank"><img align="center" src="" alt="Whatsapp" height="30" width="40"/></a>
 <a href="https://stackoverflow.com/users/ndaruga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ndaruga" height="30" width="40" /></a>
 <a href="https://kaggle.com/ndaruga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ndaruga" height="30" width="40" /></a>
 <a href="https://medium.com/@ndaruga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ndaruga" height="30" width="40" /></a>
