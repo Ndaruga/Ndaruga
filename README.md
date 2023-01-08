@@ -20,9 +20,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ndaruga_" target="blank"><img align="center" src="https://user-images.githubusercontent.com/68260816/211199967-1e9bb95b-318f-4af3-8e79-cdd50bf1aa6d.png" alt="ndaruga_" height="35" width="40" /></a>
-<a href="https://linkedin.com/in/francis-ndaruga" target="blank"><img align="center" src="https://user-images.githubusercontent.com/68260816/211200043-e635f942-85e1-45b2-b6c6-2a60c841a9a7.png" alt="francis-ndaruga" height="35" width="30" /></a>
+<a href="https://linkedin.com/in/francis-ndaruga" target="blank"><img align="center" src="https://user-images.githubusercontent.com/68260816/211200043-e635f942-85e1-45b2-b6c6-2a60c841a9a7.png" alt="francis-ndaruga" height="30" width="35" /></a>
 <a href="https://api.whatsapp.com/send?phone=254113927737" target="blank"><img align="center" src="https://user-images.githubusercontent.com/68260816/211200397-1b77e95c-7dc6-45ef-9e3d-d2187047facb.svg" alt="Whatsapp" height="35" width="35"/></a>
-<a href="https://stackoverflow.com/users/ndaruga" target="blank"><img align="center" src="https://user-images.githubusercontent.com/68260816/211200143-022ad559-7a71-4747-8406-293feaa34d20.png" alt="ndaruga" height="35" width="30" /></a>
+<a href="https://stackoverflow.com/users/14882285/ndaruga" target="blank"><img align="center" src="https://user-images.githubusercontent.com/68260816/211200143-022ad559-7a71-4747-8406-293feaa34d20.png" alt="ndaruga" height="30" width="40" /></a>
 <a href="https://kaggle.com/ndaruga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ndaruga" height="30" width="40" /></a>
 <a href="https://medium.com/@ndaruga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ndaruga" height="30" width="40" /></a>
 </p>
