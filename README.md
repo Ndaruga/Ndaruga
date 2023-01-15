@@ -11,11 +11,13 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning and data science projects**
 
-- 💬 Ask me about **Data Science, AWS cloud,**
+- 💬 Ask me about: **Data Science, AWS cloud,**
 
-- 📫 How to reach me **ndaruga.francis@gmail.com**
+- 📫 How to reach me: **ndaruga.francis@gmail.com**
 
-- ⚡ Fun fact **I am not hilarious.**
+- I speak Fluent **English** and some **Chinese Mandrin**
+
+- ⚡ Fun fact: **I am not hilarious.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
