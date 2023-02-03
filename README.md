@@ -5,7 +5,7 @@
 
 <!--- <p align="left"> <a href="https://twitter.com/ndaruga_" target="blank"><img src="https://img.shields.io/twitter/follow/ndaruga_?logo=twitter&style=for-the-badge" alt="ndaruga_" /></a> </p> --->
 
-- 🔭 I’m currently working on [Neural Machine Translation](https://github.com/Ndaruga/Neural-Machine-Translation)
+- 🔭 I’m currently working on [Automatic Number plate Recognition](https://github.com/Ndaruga/Automatic-Vehical-Number-Plate-Recognition)
 
 - 🌱 I’m currently learning **Google cloud and Microsoft Azure**
 
