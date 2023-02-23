@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Francis</h1>
-<h3 align="center">A passionate software developer from Nairobi-Kenya</h3>
+<h3 align="center">A passionate software developer and an academic tutor from Nairobi-Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ndaruga&label=Profile%20views&color=0e75b6&style=flat" alt="ndaruga" /> </p>
 
 <!--- <p align="left"> <a href="https://twitter.com/ndaruga_" target="blank"><img src="https://img.shields.io/twitter/follow/ndaruga_?logo=twitter&style=for-the-badge" alt="ndaruga_" /></a> </p> --->
 
-- 🔭 I’m currently working on [Automatic Number plate Recognition](https://github.com/Ndaruga/Automatic-Vehical-Number-Plate-Recognition)
+- 🔭 I’m currently working on **The ALX-Africa Software Engineering** program
 
 - 🌱 I’m currently learning **Google cloud and Microsoft Azure**
 
