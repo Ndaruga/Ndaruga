@@ -13,7 +13,7 @@
 
 - 💬 Ask me about: **Data Science, AWS cloud,**
 
-- 📫 How to reach me: **ndaruga.francis@gmail.com**
+- 📫 How to reach me: **kingorifrancis19@gmail.com**
 
 - I speak Fluent **English** and some **Chinese Mandrin**
 
