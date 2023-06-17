@@ -36,6 +36,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ndarugaa&show_icons=true&include_all_commits=true&theme=radical" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ndarugaa&layout=compact&theme=radical" alt="ndaruga" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ndarugaa&layout=compact&theme=radical" /></p>
-<p><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Ndarugaa&theme=github-dark" /></p>
+<p><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Ndarugaa&theme=github-compact" /></p>
 
 
