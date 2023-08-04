@@ -6,7 +6,7 @@
 
 <!--- <p align="left"> <a href="https://twitter.com/ndaruga_" target="blank"><img src="https://img.shields.io/twitter/follow/ndaruga_?logo=twitter&style=for-the-badge" alt="ndaruga_" /></a> </p> --->
 
-- 🔭 I’m currently working on **[The ALX-Africa Software Engineering](https://www.alxafrica.com/software-engineering/)** program
+- 🔭 I’m currently working on **Data Engineering** projects
 
 - 🌱 I’m currently learning **Google cloud and Microsoft Azure**
 
