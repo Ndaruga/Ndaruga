@@ -22,41 +22,41 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ndaruga_" target="blank"><img align="center" src="https://user-images.githubusercontent.com/68260816/211199967-1e9bb95b-318f-4af3-8e79-cdd50bf1aa6d.png" alt="ndaruga_" height="35" width="40" /></a>
+<a href="https://twitter.com/ndaruga_" target="blank"><img align="center" src="https://user-images.githubusercontent.com/68260816/211199967-1e9bb95b-318f-4af3-8e79-cdd50bf1aa6d.png" alt="ndaruga_" height="35" width="50" /></a>
 <a href="https://linkedin.com/in/francis-ndaruga" target="blank"><img align="center" src="https://user-images.githubusercontent.com/68260816/211200043-e635f942-85e1-45b2-b6c6-2a60c841a9a7.png" alt="francis-ndaruga" height="30" width="35" /></a>
-<a href="https://stackoverflow.com/users/14882285/ndaruga" target="blank"><img align="center" src="https://user-images.githubusercontent.com/68260816/211200143-022ad559-7a71-4747-8406-293feaa34d20.png" alt="ndaruga" height="30" width="40" /></a>
-<a href="https://kaggle.com/ndaruga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ndaruga" height="30" width="40" /></a>
-<a href="https://medium.com/@ndaruga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ndaruga" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14882285/ndaruga" target="blank"><img align="center" src="https://user-images.githubusercontent.com/68260816/211200143-022ad559-7a71-4747-8506-293feaa34d20.png" alt="ndaruga" height="30" width="50" /></a>
+<a href="https://kaggle.com/ndaruga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ndaruga" height="30" width="50" /></a>
+<a href="https://medium.com/@ndaruga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ndaruga" height="30" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<a href="https://www.docker.com/ndaruga" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="#"> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="Apache Spark" width="40" height="40"/> </a>
-<a href="#"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" alt="Apache Kafka" width="40" height="40"/> </a>
-<a href="#"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21.svg" alt="Kibana" width="40" height="40"/> </a>
-<a href="#"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
-<a href="#"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40"/> </a>
-<a href="#"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg" alt="Apache Hadoop" width="50" height="40"/> </a>
+<a href="https://www.docker.com/ndaruga" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="Docker" width="50" height="50"/> </a> 
+<a href="#"> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="Apache Spark" width="60" height="50"/> </a>
+<a href="#"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" alt="Apache Kafka" width="60" height="50"/> </a>
+<a href="#"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21.svg" alt="Kibana" width="65" height="50"/> </a>
+<a href="#"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/> </a>
+<a href="#"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg" alt="Grafana" width="65" height="50"/> </a>
+<a href="#"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg" alt="Apache Hadoop" width="50" height="60"/> </a>
 <a href="#"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="Google Cloud" width="60" height="50"/> </a>
-<a href="#"> <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="Go" width="40" height="40"/> </a>
-<a href="#"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/> </a>
-<a href="#"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg" alt="" width="50" height="45"/> </a>
-<a href="#"> <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-ar21.svg" alt="Snowflake" width="60" height="50"/> </a>
-<a href="#"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" alt="" width="60" height="50"/> </a>
-<a href="#"> <img src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg" alt="" width="60" height="50"/> </a>
-<a href="#"> <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-ar21.svg" alt="" width="60" height="50"/> </a>
-<a href="#"> <img src="https://www.vectorlogo.zone/logos/fivetran/fivetran-ar21.svg" alt="" width="60" height="50"/> </a>
-<a href="#"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="" width="60" height="50"/> </a>
-<a href="#"> <img src="https://www.vectorlogo.zone/logos/cloudops/cloudops-ar21.svg" alt="" width="60" height="50"/> </a>
-<a href="#"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="" width="60" height="50"/> </a>
-<a href="#"> <img src="https://www.svgrepo.com/show/353380/airflow.svg" alt="" width="60" height="50"/> </a>
-<a href="#"> <img src="https://www.svgrepo.com/show/353399/ansible.svg" alt="" width="50" height="50"/> </a>
-<a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="#"> <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="Go" width="50" height="50"/> </a>
+<a href="#"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="50" height="50"/> </a>
+<a href="#"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg" alt="Promotheus" width="50" height="45"/> </a>
+<a href="#"> <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-ar21.svg" alt="Snowflake" width="65" height="50"/> </a>
+<a href="#"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" alt="Terraform" width="65" height="50"/> </a>
+<a href="#"> <img src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg" alt="Data Bricks" width="65" height="60"/> </a>
+<a href="#"> <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-ar21.svg" alt="Digital Ocean" width="60" height="50"/> </a>
+<a href="#"> <img src="https://www.vectorlogo.zone/logos/fivetran/fivetran-ar21.svg" alt="Fivetran" width="60" height="50"/> </a>
+<a href="#"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="Microsoft Azure" width="60" height="50"/> </a>
+<a href="#"> <img src="https://www.vectorlogo.zone/logos/cloudops/cloudops-ar21.svg" alt="Cloud Ops" width="60" height="50"/> </a>
+<a href="#"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" width="60" height="50"/> </a>
+<a href="#"> <img src="https://www.svgrepo.com/show/353380/airflow.svg" alt="Apache Airflow" width="60" height="50"/> </a>
+<a href="#"> <img src="https://www.svgrepo.com/show/353399/ansible.svg" alt="Ansible" width="50" height="50"/> </a>
+<a href="#"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="50" height="50"/> </a>
+<a href="#"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB" width="50" height="50"/> </a>
+<a href="#"> <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-ar21.svg" alt="Google BigQuery" width="50" height="50"/> </a>
+<a href="#"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" alt="PostgreSQL" width="50" height="50"/> </a>
+<a href="#"> <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python" width="50" height="50"/> </a>
 </p>
 
 
