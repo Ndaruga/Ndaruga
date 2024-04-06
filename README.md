@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Francis</h1>
-<h3 align="center">A software developer from Nairobi-Kenya</h3>
+<h3 align="center">A Data & Analytics Engineer</h3>
 <!---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ndaruga&label=Profile%20views&color=0e75b6&style=flat" alt="Ndaruga" /> </p>
 --->
@@ -8,17 +8,15 @@
 
 - 🔭 I’m currently working on **Data Engineering** projects
 
-- 🌱 I’m currently learning **Google cloud and Microsoft Azure**
+- 👯 I’m looking to collaborate on **Data Engineering projects**
 
-- 👯 I’m looking to collaborate on **Machine Learning and data science projects**
-
-- 💬 Ask me about: **Data Science, AWS cloud,**
+- 💬 Ask me about: **Data Engineering, Analytics, Data Security, etc**
 
 - 📫 How to reach me: **[@Ndaruga_](https://twitter.com/Ndaruga_)**
 
 - I speak Fluent **English** and some **Chinese Mandrin**
 
-- ⚡ Fun fact: **I am not hilarious.**
+- ⚡ Fun fact: **I am Mechanic,**🚗🔧🛠️ with no idea how to intergrate it with tech💻
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
