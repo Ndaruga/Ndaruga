@@ -12,11 +12,11 @@
 
 - 💬 Ask me about: **Data Engineering, Analytics, Data Security, etc**
 
-- 📫 How to reach me: **[@Ndaruga_](https://twitter.com/Ndaruga_)**
+- 📫 How to reach out to me on twitter: **[@Ndaruga_](https://twitter.com/Ndaruga_)**
 
 - I speak Fluent **English** and some **Chinese Mandrin**
 
-- ⚡ Fun fact: **I am Mechanic,**🚗🔧🛠️ with no idea how to intergrate it with tech💻
+- ⚡ Fun fact: **I am Mechanic,🚗🔧🛠️ with no idea how to intergrate it with tech💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
