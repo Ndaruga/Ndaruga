@@ -12,7 +12,7 @@
 
 - 💬 Ask me about: **Data Engineering, Analytics, Data Security, etc**
 
-- 📫 How to reach out to me on twitter: **[@Ndaruga_](https://twitter.com/Ndaruga_)**
+- 📫 How to reach out to me on twitter: **[@furanjes](https://twitter.com/furanjes)**
 
 - I speak Fluent **English** and some **Chinese Mandrin**
 
