@@ -16,7 +16,6 @@
 
 - I speak Fluent **English** and some **Chinese Mandrin**
 
-- ⚡ Fun fact: **I am Mechanic,🚗🔧🛠️ with no idea how to intergrate it with tech💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
